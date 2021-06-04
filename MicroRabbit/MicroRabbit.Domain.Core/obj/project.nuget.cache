@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8Zabt7BCw93fVcg91evZUS1gMT9UBm+Ji/u0fKcHWhtJChMFQ7daXfpjUACWKA0WAHpUypGhvF9czkZerIADpg==",
+  "dgSpecHash": "SmqqWreOtW99Z4zxSAYZT+a2nK34b/XTHQ6n/DIDh9ifSP+yXTY2aQfhYcWm+ab3+YRSsE7SmV8rhDFNyPXdLg==",
   "success": true,
   "projectFilePath": "/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jaeno/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

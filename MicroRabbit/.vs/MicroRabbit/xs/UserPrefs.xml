@@ -1,11 +1,24 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Domain.Core/Events/Event.cs">
+    <Files>
+      <File FileName="MicroRabbit.Domain.Core/Bus/IEventBus.cs" Line="12" Column="45" />
+      <File FileName="MicroRabbit.Domain.Core/Bus/IEventHandler.cs" Line="7" Column="6" />
+      <File FileName="MicroRabbit.Domain.Core/Commands/Command.cs" Line="10" Column="38" />
+      <File FileName="MicroRabbit.Domain.Core/Events/Message.cs" Line="12" Column="42" />
+      <File FileName="MicroRabbit.Domain.Core/Events/Event.cs" Line="5" Column="6" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MicroRabbit" expanded="True">
             <Node name="Domain" expanded="True">
-              <Node name="MicroRabbit.Domain.Core" expanded="True" />
+              <Node name="MicroRabbit.Domain.Core" expanded="True">
+                <Node name="Bus" expanded="True" />
+                <Node name="Commands" expanded="True" />
+                <Node name="Events" expanded="True">
+                  <Node name="Event.cs" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
