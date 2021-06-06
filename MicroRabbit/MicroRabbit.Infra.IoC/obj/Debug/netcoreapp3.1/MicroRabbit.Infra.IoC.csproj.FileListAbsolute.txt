@@ -1,0 +1,14 @@
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.IoC.deps.json
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.IoC.dll
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.IoC.pdb
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.IoC.csprojAssemblyReference.cache
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.IoC.AssemblyInfo.cs
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.IoC.dll
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.IoC.pdb
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.dll
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.pdb
+/Users/jaeno/Desktop/Microservices/MicroRabbit/MicroRabbit.Infra.IoC/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.IoC.csproj.CopyComplete
