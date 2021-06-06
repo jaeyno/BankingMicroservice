@@ -1,13 +1,18 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.ItemProperties.Infra.Bus.MicroRabbit.Infra.Bus FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Infra.Bus/RabbitMQBus.cs">
     <Files>
-      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="22" Column="10" />
+      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="105" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MicroRabbit" expanded="True">
+            <Node name="Domain" expanded="True">
+              <Node name="MicroRabbit.Domain.Core" expanded="True">
+                <Node name="Commands" expanded="True" />
+                <Node name="Events" expanded="True" />
+              </Node>
+            </Node>
             <Node name="Infra.Bus" expanded="True">
               <Node name="MicroRabbit.Infra.Bus" expanded="True">
                 <Node name="RabbitMQBus.cs" selected="True" />
