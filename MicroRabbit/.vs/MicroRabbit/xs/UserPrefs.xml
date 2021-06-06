@@ -1,23 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Domain.Core/Events/Event.cs">
+  <MonoDevelop.Ide.ItemProperties.Infra.Bus.MicroRabbit.Infra.Bus FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Infra.Bus/RabbitMQBus.cs">
     <Files>
-      <File FileName="MicroRabbit.Domain.Core/Bus/IEventBus.cs" Line="12" Column="45" />
-      <File FileName="MicroRabbit.Domain.Core/Bus/IEventHandler.cs" Line="7" Column="6" />
-      <File FileName="MicroRabbit.Domain.Core/Commands/Command.cs" Line="10" Column="38" />
-      <File FileName="MicroRabbit.Domain.Core/Events/Message.cs" Line="12" Column="42" />
-      <File FileName="MicroRabbit.Domain.Core/Events/Event.cs" Line="5" Column="6" />
+      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="22" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MicroRabbit" expanded="True">
-            <Node name="Domain" expanded="True">
-              <Node name="MicroRabbit.Domain.Core" expanded="True">
-                <Node name="Bus" expanded="True" />
-                <Node name="Commands" expanded="True" />
-                <Node name="Events" expanded="True">
-                  <Node name="Event.cs" selected="True" />
-                </Node>
+            <Node name="Infra.Bus" expanded="True">
+              <Node name="MicroRabbit.Infra.Bus" expanded="True">
+                <Node name="RabbitMQBus.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -26,7 +19,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Domain.MicroRabbit.Domain.Core FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
