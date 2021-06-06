@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{0C8B0A69-E3EF-4E91-8609-DE3C1CED06E8}|Default">
   <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Application.MicroRabbit.Banking.Application FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Domain.MicroRabbit.Banking.Domain FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Data.MicroRabbit.Banking.Data FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Banking.Data/Repository/AccountRepository.cs">
+    <Files>
+      <File FileName="MicroRabbit.Banking.Data/Context/BankingDbContext.cs" Line="15" Column="6" />
+      <File FileName="MicroRabbit.Banking.Data/Repository/AccountRepository.cs" Line="4" Column="40" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -11,14 +14,16 @@
               <Node name="Banking" expanded="True">
                 <Node name="Api" expanded="True" />
                 <Node name="Application" expanded="True">
-                  <Node name="MicroRabbit.Banking.Application" expanded="True">
-                    <Node name="Class1.cs" selected="True" />
-                  </Node>
+                  <Node name="MicroRabbit.Banking.Application" expanded="True" />
                 </Node>
                 <Node name="Data" expanded="True">
-                  <Node name="MicroRabbit.Banking.Data" expanded="True" />
+                  <Node name="MicroRabbit.Banking.Data" expanded="True">
+                    <Node name="Context" expanded="True" />
+                    <Node name="Repository" expanded="True">
+                      <Node name="AccountRepository.cs" selected="True" />
+                    </Node>
+                  </Node>
                 </Node>
-                <Node name="Domain" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -32,5 +37,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Api.MicroRabbit.Banking.Api FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Api.MicroRabbit.Banking.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
